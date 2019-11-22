@@ -1,0 +1,11 @@
+E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.exe
+E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.deps.json
+E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.runtimeconfig.json
+E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.runtimeconfig.dev.json
+E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.dll
+E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.pdb
+E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.csprojAssemblyReference.cache
+E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.AssemblyInfoInputs.cache
+E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.AssemblyInfo.cs
+E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.dll
+E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.pdb
