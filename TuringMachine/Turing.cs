@@ -32,7 +32,7 @@ namespace TuringMachine {
             //**********IMPORTANT: VERIFY THE LOCATION OF THE FILE AND REPLACE WITH THE FOLDER WHERE IT'S LOCATED************
 
             //Read each line and return an array of strings for each line in the file .txt
-            string[] lines = System.IO.File.ReadAllLines(@"E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\"+stateFile);
+            string[] lines = System.IO.File.ReadAllLines(@"C:\<DIRECTORY>\"+stateFile);
 
             //For each line in the array, the function createState is called to create a new state in the Turing Machine
             foreach (string linea in lines) {
@@ -44,7 +44,7 @@ namespace TuringMachine {
             //**********IMPORTANT: VERIFY THE LOCATION OF THE FILE AND REPLACE WITH THE FOLDER WHERE IT'S LOCATED************
 
             //Read each line and return an array of strings for each line in the file .txt
-            string[] transitions = System.IO.File.ReadAllLines(@"E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\"+transitionFile);
+            string[] transitions = System.IO.File.ReadAllLines(@"C:\<DIRECTORY>\"+transitionFile);
 
             foreach (string trans in transitions) {
                 //Split the line of text to get the values required to create the transition as follows:
