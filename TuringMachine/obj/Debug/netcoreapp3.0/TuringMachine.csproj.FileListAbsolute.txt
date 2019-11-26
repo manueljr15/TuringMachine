@@ -1,11 +1,26 @@
-E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.exe
-E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.deps.json
-E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.runtimeconfig.json
-E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.runtimeconfig.dev.json
-E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.dll
-E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.pdb
-E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.csprojAssemblyReference.cache
-E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.AssemblyInfoInputs.cache
-E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.AssemblyInfo.cs
-E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.dll
-E:\UPSLP\7mo semestre\Teoría computacional\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.pdb
+C:\Users\manol\Documents\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.exe
+C:\Users\manol\Documents\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.deps.json
+C:\Users\manol\Documents\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.runtimeconfig.json
+C:\Users\manol\Documents\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.runtimeconfig.dev.json
+C:\Users\manol\Documents\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.dll
+C:\Users\manol\Documents\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.pdb
+C:\Users\manol\Documents\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.csprojAssemblyReference.cache
+C:\Users\manol\Documents\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.AssemblyInfoInputs.cache
+C:\Users\manol\Documents\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.AssemblyInfo.cs
+C:\Users\manol\Documents\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.dll
+C:\Users\manol\Documents\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.pdb
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.exe
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\StatesAdd.txt
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\StatesSub.txt
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TransitionsAdd.txt
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TransitionsSub.txt
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.deps.json
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.runtimeconfig.json
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.runtimeconfig.dev.json
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.dll
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\bin\Debug\netcoreapp3.0\TuringMachine.pdb
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.csprojAssemblyReference.cache
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.AssemblyInfoInputs.cache
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.AssemblyInfo.cs
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.dll
+C:\Users\manol\Pictures\TuringMachine\TuringMachine\obj\Debug\netcoreapp3.0\TuringMachine.pdb

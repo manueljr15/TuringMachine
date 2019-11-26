@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\UPSLP\\7mo semestre\\Teoría computacional\\TuringMachine\\TuringMachine\\TuringMachine.csproj",
+      "projectUniqueName": "C:\\Users\\manol\\Pictures\\TuringMachine\\TuringMachine\\TuringMachine.csproj",
       "projectName": "TuringMachine",
-      "projectPath": "E:\\UPSLP\\7mo semestre\\Teoría computacional\\TuringMachine\\TuringMachine\\TuringMachine.csproj",
+      "projectPath": "C:\\Users\\manol\\Pictures\\TuringMachine\\TuringMachine\\TuringMachine.csproj",
       "packagesPath": "C:\\Users\\manol\\.nuget\\packages\\",
-      "outputPath": "E:\\UPSLP\\7mo semestre\\Teoría computacional\\TuringMachine\\TuringMachine\\obj\\",
+      "outputPath": "C:\\Users\\manol\\Pictures\\TuringMachine\\TuringMachine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manol\\AppData\\Roaming\\NuGet\\NuGet.Config",
